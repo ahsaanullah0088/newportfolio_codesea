@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: norwester
+font link: http://jamiewilson.io/norwester/
+font author: Jamie Wilson
+font author site: http://jamiewilson.io/
+
+
+icon designer: Icons By Alfredo
+icon designer link: /AlfredoCreates
+        
+{"bg":"#E1F4FC","icon-gradient-0":"#0D7CE9","icon-gradient-1":"#15CFF1","font":"#08374E","slogan":"#1c4b62"}
+      
